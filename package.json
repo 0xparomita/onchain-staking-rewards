@@ -1,0 +1,13 @@
+{
+  "name": "onchain-staking-rewards",
+  "version": "1.0.0",
+  "description": "ERC-20 staking and reward distribution system",
+  "main": "StakingPool.sol",
+  "keywords": [
+    "staking",
+    "defi",
+    "yield",
+    "solidity",
+    "passive-income"
+  ]
+}
